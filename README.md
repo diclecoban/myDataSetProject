@@ -7,10 +7,15 @@ Bu proje, uçuş gecikmelerini analiz etmek ve bu gecikmelere etkili olan faktö
 Kullanılan veri seti, uçuş gecikmeleri hakkında çeşitli bilgileri içermektedir. Sütun isimleri şu şekildedir:
 
 •FlightID: Uçuş kimlik numarası
+
 •Airline: Havayolu şirketi
+
 •FlightNumber: Uçuş numarası
+
 •Origin: Kalkış noktası
+
 •Destination: Varış noktası
+
 •ScheduledDeparture: Planlanan kalkış tarihi ve saati
 •ActualDeparture: Gerçek kalkış tarihi ve saati
 •ScheduledArrival: Planlanan varış tarihi ve saati
