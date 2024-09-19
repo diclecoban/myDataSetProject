@@ -84,3 +84,5 @@ En iyi performansı veren modelin değerlendirilmesi için K-Fold çapraz doğru
 **Sonuçlar**
 
 Modelleme ve kümeleme sonuçları, uçuş gecikmelerini etkileyen faktörlerin anlaşılmasına ve uçuşların benzerliklerine göre gruplandırılmasına yardımcı olmuştur.
+
+Kaggle Link: https://www.kaggle.com/code/diclesaracoban/diclecobanflightdelays
